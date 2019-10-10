@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348038236010",
+    "firebase_url": "https://ubercopiaflutter.firebaseio.com",
+    "project_id": "ubercopiaflutter",
+    "storage_bucket": "ubercopiaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348038236010:android:0d7000694444ed57d84713",
+        "android_client_info": {
+          "package_name": "com.thiagomoreira.ubercopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348038236010-7ahrf2mrfj6hmt8od1sfp23n85f9m7o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thiagomoreira.ubercopy",
+            "certificate_hash": "329cf4226d8a0e2cf9ea110a11bf401bc05c623f"
+          }
+        },
+        {
+          "client_id": "348038236010-cgl5s6ra1h6p6oak40gg0ml02o1tpns5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIPPZ3jw9aePvMjbw6vM2CuhNU8h5f1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348038236010-cgl5s6ra1h6p6oak40gg0ml02o1tpns5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
